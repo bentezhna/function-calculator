@@ -1,4 +1,6 @@
-﻿#include <iostream> // введення cin і виведення cout
+// Обчислення значень функції на заданому проміжку
+
+#include <iostream> // введення cin і виведення cout
 #include <iomanip>  // оформлення таблиці
 #include <sstream>  // перевірка введеного тексту
 #include <string>   // зберігання тексту
