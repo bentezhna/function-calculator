@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="lab2ustymenko/lab2ustymenko.vcxproj" Id="88f225f8-9eec-4b5d-8999-570f01bca398" />
+  <Project Path="lab2ustymenko.vcxproj" Id="88f225f8-9eec-4b5d-8999-570f01bca398" />
 </Solution>
